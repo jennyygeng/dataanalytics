@@ -2,7 +2,7 @@
 
 A collection of data analytics projects utilizing Microsoft Excel and Tableau to derive actionable business insights. 
 
-While the datasets and initial project scopes were predefined assignments completed during my time as a Data Analytics Trainee with The Global Career Accelerator, the exploratory data analysis, A/B testing evaluation, and resulting business strategy recommendations are my own work.
+While the datasets and initial project scopes were predefined assignments completed during my participation in The Global Career Accelerator program, the exploratory data analysis, A/B testing evaluation, and resulting business strategy recommendations are my own work.
 
 ## 🏆 Project 1: The Recording Academy (Grammys)
 **Tool:** Microsoft Excel
